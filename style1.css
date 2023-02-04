@@ -1,0 +1,29 @@
+h1{
+    font-size: 7vw;
+    margin: 0;
+}
+
+.container{
+    padding-top: 31.5vh;
+    height: 64vh;
+}
+
+.row input{
+    padding: 0px;
+    color: white;
+    width: 90vw;
+    background-color: black;
+    font-size: 9vw;
+    height: 8vh;
+}
+
+.button{
+    width: 22vw;
+    border-radius: 100%;
+    font-size: 2.5vh;
+}
+
+#but0{
+    width: 48vw;
+    border-radius: 15vw;
+}
